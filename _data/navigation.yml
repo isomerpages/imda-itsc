@@ -1,0 +1,60 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Contact Us
+  url: /contact-us/
+- title: Who We Are
+  url: /who-we-are/about-itsc/
+  sub-links:
+  - title: About ITSC
+    url: /who-we-are/about-itsc/
+  - title: Policies And Procedures
+    url: /who-we-are/policies-and-procedures/
+  - title: Composition
+    url: /who-we-are/composition/
+- title: Technical Committees
+  url: /technical-committees/artificial-intelligence-technical-committee/
+  sub-links:
+  - title: Artificial Intelligence Technical Committee
+    url: /technical-committees/artificial-intelligence-technical-committee/
+  - title: Blockchain And Distributed Ledger Technologies Technical Committee
+    url: /technical-committees/blockchain-and-distributed-ledger-technologies-technical-committee/
+  - title: Cloud Computing Standards Technical Committee
+    url: /technical-committees/cloud-computing-standards-technical-committee/
+  - title: Efinancial Service Technical Committee
+    url: /technical-committees/efinancial-service-technical-committee/
+  - title: Green Information Technology Technical Committee
+    url: /technical-committees/green-information-technology-technical-committee/
+  - title: Health Informatics Technical Committee
+    url: /technical-committees/health-informatics-technical-committee/
+  - title: Idenfication Technology Technical Committee
+    url: /technical-committees/idenfication-technology-technical-committee/
+  - title: Information Technology For Senior Adults Technical Committee
+    url: /technical-committees/information-technology-for-senior-adults-technical-committee/
+  - title: Internet Of Things Technical Committee
+    url: /technical-committees/internet-of-things-technical-committee/
+  - title: Multimedia Representation Technical Committee
+    url: /technical-committees/multimedia-representation-technical-committee/
+  - title: Security And Privacy Standards Technical Committee
+    url: /technical-committees/security-and-privacy-standards-technical-committee/
+- title: Standards
+  url: /standards/what-are-standards/
+  sub-links:
+  - title: What Are Standards
+    url: /standards/what-are-standards/
+  - title: How Are Standards Developed
+    url: /standards/how-are-standards-developed/
+  - title: Benefits Of Standards
+    url: /standards/benefits-of-standards/
+  - title: Singapore It Standards
+    url: /standards/singapore-it-standards/
+- title: International Participation
+  url: /international-participation/membership-in-iso-iec-jtc-1/
+  sub-links:
+  - title: Membership In ISO IEC JTC 1
+    url: /international-participation/membership-in-iso-iec-jtc-1/
+  - title: Standards And World Trade
+    url: /international-participation/standards-and-world-trade/
