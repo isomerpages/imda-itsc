@@ -48,4 +48,4 @@ collections:
     output: true
   international-participation:
     output: true
-  resources_name: news
+resources_name: news
