@@ -30,3 +30,15 @@ The TC represents Singapore as a ‘Participating’ or ‘P’ member of ISO/TC
 #### Singapore Standards Under eFSTC
 
 Singapore Standard SS 618 : 2016   ISO 20022 Corporate-to-Bank Payment Initiation and Payment Status
+
+List of banks and their bank channels (e.g. SWIFT, Internet Banking [IB], Host to Host [H2H])that supports SS 611:
+
+organisation        System Ready By Q3 2016   Supported Channel
+BAML                TBC                       SWIFT, IB, H2H
+Crédit Agricole     CIB	By Q1 2017            SWIFT
+HSBC                Yes                       SWIFT, IB, H2H
+J.P. Morgan         Yes                       SWIFT, IB, H2H
+OCBC                Yes                       SWIFT, IB, H2H
+Standard Chartered  Yes                       SWIFT, IB, H2H
+UOB                 TBC                       TBC
+CIMB                By Q4 2017                IB
