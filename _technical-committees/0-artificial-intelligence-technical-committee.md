@@ -16,3 +16,16 @@ The Technical Committee has the following main composition:
 **Mr Laurence Liew**
 Director, AI Industry Innovation
 AI Singapore
+
+##### TC Secretary
+
+**Mr Koo Sengmeng**
+Deputy Director, AI Industry Innovation
+AI Singapore
+
+
+##### International Standards Participation
+The TC represents Singapore as an ‘Observer’ or ‘O’ member in ISO/IEC JTC 1/SC 42 on ‘Artificial Intelligence’.
+
+##### Singapore Standards under AITC
+There are currently no Singapore Standards under the TC's purview.
