@@ -29,4 +29,4 @@ The TC represents Singapore as a ‘Participating’ or ‘P’ member of ISO/TC
 
 #### Singapore Standards Under eFSTC
 
-Singapore Standard SS 618 : 20126   ISO 20022 Corporate-to-Bank Payment Initiation and Payment Status
+Singapore Standard SS 618 : 2016   ISO 20022 Corporate-to-Bank Payment Initiation and Payment Status
