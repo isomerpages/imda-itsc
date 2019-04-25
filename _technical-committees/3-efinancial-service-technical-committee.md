@@ -13,7 +13,7 @@ eFSTC has the following main composition:
 
 #### TC Chairman
 
-Mr Amod Dixit
+#### Mr Amod Dixit
 Chief Executive Officer
 Zensung Pte. Ltd.
 
