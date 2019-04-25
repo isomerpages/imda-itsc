@@ -24,6 +24,7 @@ CTO & Co-founder, Attores
 Mr Vinay Mohan
 Director - Asia Pacific Operations, ConsenSys
 
+
 #### International Standards Participation
 The TC represents Singapore as an ‘Participating’ or ‘P’ member in ISO/TC 307 on ‘Blockchain and distributed ledger technologies’.
 
