@@ -19,7 +19,7 @@ AI Singapore
 
 ##### TC Secretary
 
-**Mr Koo Sengmeng**
+##### Mr Koo Sengmeng
 Deputy Director, AI Industry Innovation
 AI Singapore
 
