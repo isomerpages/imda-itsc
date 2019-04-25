@@ -27,9 +27,15 @@ The TC comprises the following Working Groups (WGs):
 
 
 #### Singapore Standards under CCSTC
+
 Singapore Standard SS 584 : 2015	Specification for Multi-tiered Cloud Computing Security
+
 Technical Reference TR 30 : 2012	Virtualisation Security for Servers
+
 Technical Reference TR 33 : 2013	Data as a Service (DaaS) Application Programming Interface (API) Design
+
 Technical Reference TR 41 : 2015	Data Quality Metrics
+
 Technical Reference TR 55 : 2016	Data Versioning
+
 Technical Reference TR 62 : 2018	Guidelines for Cloud Outage Incident Response (COIR)
