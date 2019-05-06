@@ -24,7 +24,7 @@ Chief Technology Officer, V-Key Pte Ltd
 
 #### International Standards Participation ####
 
-The TC represents Singapore as a ‘Participating’ or ‘P’ member in ISO/IEC JTC 1/SC 27 on ‘IT Security Techniques’.
+The TC represents Singapore as a ‘Participating’ or ‘P’ member in ISO/IEC JTC 1/SC 27 on ‘Information Security, Cybersecurity and Privacy Protection'.
 
 #### Singapore Standards Under SPSTC ####
 
