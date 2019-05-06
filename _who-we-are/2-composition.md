@@ -67,3 +67,10 @@ Singapore Polytechnic
 
 **Mr Cheong Tak Leong**
 Enterprise Singapore
+
+
+##### Technical Committees (TCs)/Working Groups (WGs)
+
+The set up of TCs/WGs mirrors with the structure of Joint Technical Committee 1 (JTC 1) of the International Organisation for Standardisation (ISO) and International Electrotechnical Commission (IEC) whenever possible. This is to provide a platform for Singapore's participation in the international standardisation effort and facilitate faster evaluation and adoption of the international standards as Singapore standards.
+
+The TCs/WGs are formed as directed by the Chairman or at the request of one-third of the ITSC members in view of the national and industry needs and interest for standardisation.
