@@ -14,16 +14,12 @@ The Technical Committee has the following main composition:
 ##### TC Chairman
 
 **Mr Laurence Liew**
-Director, AI Industry Innovation
-
-AI Singapore
+Director, AI Industry Innovation, AI Singapore
 
 ##### TC Secretary
 
 **Mr Koo Sengmeng**
-Deputy Director, AI Industry Innovation
-
-AI Singapore
+Deputy Director, AI Industry Innovation, AI Singapore
 
 
 ##### International Standards Participation
