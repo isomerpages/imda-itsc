@@ -23,7 +23,7 @@ Director, Digital Applied Research and Technology Pte Ltd
 Senior Research Engineer, Institute for Infocomm Research
 
 **Mr Kelvin Lim**
-Deputy Chief Specialist, Systems Specilaists, Rail/Road Systems Engineering Group, Land Transport Authority
+Deputy Chief Specialist, Systems Specialists, Rail/Road Systems Engineering Group, Land Transport Authority
 
 #### International Standards Participation ####
 
