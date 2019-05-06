@@ -18,17 +18,17 @@ A TR is implemented for two years before a review is made on its suitability to 
 
 #### Singapore IT Standards established:
 
-SS 362 : Part 1 : 2013	Specification For GS1 Bar Coding System Part 1 : GS1 - An Unambiguous International Product Identification System
+* SS 362 : Part 1 : 2013	Specification For GS1 Bar Coding System Part 1 : GS1 - An Unambiguous International Product Identification System
 
-SS 362 : Part 2 : 2013	Specification For GS1 Bar Coding System Part 2 : GS1 Code 128 And Application Identifier Standard
+* SS 362 : Part 2 : 2013	Specification For GS1 Bar Coding System Part 2 : GS1 Code 128 And Application Identifier Standard
 
-SS 467 : 2002 (2012)	Specification for Smart Card Reader Application Program Interface (API)
+* SS 467 : 2002 (2012)	Specification for Smart Card Reader Application Program Interface (API)
 
-SS 468 : 1999 (2012)	Specification for Stored Value Card Application
+* SS 468 : 1999 (2012)	Specification for Stored Value Card Application
 
-SS 507 : 2015	Information and Communications Technology Disaster Recovery Services
+* SS 507 : 2015	Information and Communications Technology Disaster Recovery Services
 
-SS 518 : 2014 (Incorporating Amendment 1, January 2019)	Specification for Contactless E-Purse Application
+* SS 518 : 2014 (Incorporating Amendment 1, January 2019)	Specification for Contactless E-Purse Application
 
 SS 526 : Part 1: 2006 (2014)	Specification for Content Exchange Metadata Standards For The Education Sector Part 1 : Metadata Standards
 
@@ -79,7 +79,7 @@ TR 67 : 2018	Connected Medical Device Security
 
 To view the collection of Singapore Standards, ISO, IEC and other national standards, please browse our electronic catalogue at www.singaporestandardseshop.sg or contact :
 
-TOPPAN LEEFUNG PTE LTD
+**TOPPAN LEEFUNG PTE LTD**
 
 1 Kim Seng Promenade, #18-01
 
@@ -106,7 +106,7 @@ Website : https://www.singaporestandardseshop.sg
 
 The full collection of Singapore Standards are also available for viewing at Enterprise Singapore's reception area, as well as the National Library Board, Lee Kong Chian Reference Library
 
-#### Enterprise Singapore
+**Enterprise Singapore**
 
 1 Fusionopolis Walk
 
@@ -118,7 +118,7 @@ Tel: (65) 6278 6666
 
 Fax: (65) 6278 6667
 
-#### National Library Board 
+**National Library Board**
 
 100 Victoria Street 
 
