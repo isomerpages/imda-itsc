@@ -22,3 +22,11 @@ Chief Executive Officer, Keppel Data Centres
 The TC represents Singapore as a ‘Participating’ or ‘P’ member of ISO/IEC JTC 1/SC 39 on ‘Sustainability for and by IT’. 
 
 * P-members participate actively in the work and have an obligation to vote on all questions submitted to vote within the technical committee.
+
+#### Singapore Standards Under GITTC
+
+* SS 564: Part 1: 2013 Green Data Centres Part 1: Energy and Environmental Management Systems
+
+* SS 564: Part 2: 2013	Green Data Centres Part 2: Guidance for Energy and Environment Management Systems
+
+* SS 587: 2013 Management of End-of-Life ICT Equipment
