@@ -29,7 +29,6 @@ Deputy Chief Specialist, Systems Specilaists, Rail/Road Systems Engineering Grou
 
 The TC represents Singapore as a ‘Participating’ or ‘P’ member of ISO/IEC JTC 1/SC 17 on ‘Cards and Security Devices for Personal Identification’, and ISO/IEC JTC 1/SC 37 on ‘Biometrics’. Singapore is also the Convenor of ISO/IEC JTC 1/SC 17/WG 11 on ‘Application of biometrics to cards and personal identification’.
 
-* P-members participate actively in the work and have an obligation to vote on all questions submitted to vote within the technical committee.
 
 #### Singapore Standards Under ITTC ####
 
