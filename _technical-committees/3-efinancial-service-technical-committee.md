@@ -13,10 +13,8 @@ eFSTC has the following main composition:
 
 #### TC Chairman
 
-#### Mr Amod Dixit
-Chief Executive Officer
-
-Zensung Pte. Ltd.
+**Mr Amod Dixit**
+Chief Executive Officer, Zensung Pte. Ltd.
 
 The TC comprises the following Working Groups (WGs):
 
@@ -30,7 +28,7 @@ The TC represents Singapore as a ‘Participating’ or ‘P’ member of ISO/TC
 
 #### Singapore Standards Under eFSTC
 
-Singapore Standard SS 618 : 2016   ISO 20022 Corporate-to-Bank Payment Initiation and Payment Status
+* SS 618 : 2016   ISO 20022 Corporate-to-Bank Payment Initiation and Payment Status
 
 List of banks and their bank channels (e.g. SWIFT, Internet Banking [IB], Host to Host [H2H])that supports SS 611:
 
