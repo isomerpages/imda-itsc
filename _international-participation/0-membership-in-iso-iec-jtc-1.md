@@ -10,11 +10,11 @@ ITSC participates actively in international standards forum, in particular, ISO/
 Participating memberships
 * ISO/IEC JTC 1 - Joint Technical Committee 1 on Information Technology
 * ISO/IEC JTC 1/SC 17 - Cards and Security Devices for Personal Identification
-* ISO/IEC JTC 1/SC 27 - IT Security Techniques
+* ISO/IEC JTC 1/SC 27 - Information Security, Cybersecurity and Privacy Protection
 * ISO/IEC JTC 1/SC 29 - Coding of Audio, Picture, Multimedia and Hypermedia Information
 * ISO/IEC JTC 1/SC 37 - Biometrics
-* ISO/IEC JTC 1/SC 38 - Distributed Applications and Platform Services
-* ISO/IEC JTC 1/SC 39 - Sustainability of and by IT
+* ISO/IEC JTC 1/SC 38 - Cloud Computing and Distributed Platforms
+* ISO/IEC JTC 1/SC 39 - Sustainability for and by Information Technology
 * ISO/IEC JTC 1/SC 41 - Internet of Things and Related Technologies
 * ISO/TC 68 - Financial Services
 * ISO/TC 307 - Blockchain and Distributed Ledger Technologies
