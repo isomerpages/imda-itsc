@@ -21,7 +21,6 @@ Chief Executive Officer, Keppel Data Centres
 #### International Standards Participation
 The TC represents Singapore as a ‘Participating’ or ‘P’ member of ISO/IEC JTC 1/SC 39 on ‘Sustainability for and by IT’. 
 
-* P-members participate actively in the work and have an obligation to vote on all questions submitted to vote within the technical committee.
 
 #### Singapore Standards Under GITTC
 
