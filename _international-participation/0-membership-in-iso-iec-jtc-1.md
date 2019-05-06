@@ -18,6 +18,7 @@ Participating memberships
 * ISO/IEC JTC 1/SC 41 - Internet of Things and Related Technologies
 * ISO/TC 68 - Financial Services
 * ISO/TC 307 - Blockchain and Distributed Ledger Technologies
+
 Observing memberships
 * ISO/IEC JTC 1/SC 6 - Telecommunications and Information Exchange between Systems
 * ISO/IEC JTC 1/SC 31 - Automatic Identification and Data Capture Techniques
@@ -25,5 +26,6 @@ Observing memberships
 * ISO/IEC JTC 1/SC 42 - Artificial Intelligence
 * ISO/TC 204 - Intelligent Transport Systems
 * ISO/TC 215 - Health Informatics
+
 Others
 * ISO/IEC JTC 1/WG 11 - Smart Cities
