@@ -30,6 +30,7 @@ The TC represents Singapore as a ‘Participating’ or ‘P’ member of ISO/TC
 
 * SS 618 : 2016   ISO 20022 Corporate-to-Bank Payment Initiation and Payment Status
 
+
 List of banks and their bank channels (e.g. SWIFT, Internet Banking [IB], Host to Host [H2H])that supports SS 611:
 
 #### Organisation        System Ready By Q3 2016   Supported Channel
