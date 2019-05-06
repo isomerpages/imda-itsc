@@ -30,49 +30,49 @@ A TR is implemented for two years before a review is made on its suitability to 
 
 * SS 518 : 2014 (Incorporating Amendment 1, January 2019)	Specification for Contactless E-Purse Application
 
-SS 526 : Part 1: 2006 (2014)	Specification for Content Exchange Metadata Standards For The Education Sector Part 1 : Metadata Standards
+* SS 526 : Part 1: 2006 (2014)	Specification for Content Exchange Metadata Standards For The Education Sector Part 1 : Metadata Standards
 
-SS 526 : Part 2: 2006 (2014)	Specification for Content Exchange Metadata Standards For The Education Sector Part 2 : Taxonomy Standards
+* SS 526 : Part 2: 2006 (2014)	Specification for Content Exchange Metadata Standards For The Education Sector Part 2 : Taxonomy Standards
 
-SS 529 : 2006	Specification for Smart Card ID
+* SS 529 : 2006	Specification for Smart Card ID
 
-SS 564 : Part 1: 2013	Green Data Centres Part 1 : Energy and Environmental Management Systems
+* SS 564 : Part 1: 2013	Green Data Centres Part 1 : Energy and Environmental Management Systems
 
-SS 564 : Part 2: 2013	Green Data Centres Part 2 : Guidance for Energy and Environment Management Systems
+* SS 564 : Part 2: 2013	Green Data Centres Part 2 : Guidance for Energy and Environment Management Systems
 
-SS 584 : 2015	Specification for Multi-tier Cloud Computing Security
+* SS 584 : 2015	Specification for Multi-tier Cloud Computing Security
 
-SS 587 : 2013	Management of End-of-Life ICT Equipment
+* SS 587 : 2013	Management of End-of-Life ICT Equipment
 
-SS 611 : 2016	ISO 20022 Corporate-to-Bank Payment Initiation and Payment Status
+* SS 611 : 2016	ISO 20022 Corporate-to-Bank Payment Initiation and Payment Status
 
-SS 618 : 2016	Guidelines on user interface design for older adults
+* SS 618 : 2016	Guidelines on user interface design for older adults
 
-TR 29 : 2012 (Incorporating Amendment 1, July 2012)	National Authentication Framework-- Authentication Operator Interface Messages
+* TR 29 : 2012 (Incorporating Amendment 1, July 2012)	National Authentication Framework-- Authentication Operator Interface Messages
 
-TR 30 : 2012	Virtualisation Security for Servers
+* TR 30 : 2012	Virtualisation Security for Servers
 
-TR 33 : 2013 Data as a Service (DaaS) Application Programming Interface (API) Design
+* TR 33 : 2013 Data as a Service (DaaS) Application Programming Interface (API) Design
 
-TR 38 : 2014	Sensor Network for Smart Nation (public areas)
+* TR 38 : 2014	Sensor Network for Smart Nation (public areas)
 
-TR 40 : 2015 Sensor Networks for Smart Nation (homes)
+* TR 40 : 2015 Sensor Networks for Smart Nation (homes)
 
-TR 41 : 2015 Data Quality Metrics
+* TR 41 : 2015 Data Quality Metrics
 
-TR 45 : 2016	Remote Vital Signs Monitoring
+* TR 45 : 2016	Remote Vital Signs Monitoring
 
-TR 47 : 2016	Internet of Things Reference Architecture for Smart Nation
+* TR 47 : 2016	Internet of Things Reference Architecture for Smart Nation
 
-TR 50 : 2016	Internet of Things Information and Services Interoperability for Smart Nation
+* TR 50 : 2016	Internet of Things Information and Services Interoperability for Smart Nation
 
-TR 55 : 2016	Data Versioning
+* TR 55 : 2016	Data Versioning
 
-TR 62 : 2018	Guidelines for Cloud Outage Incident Response (COIR)
+* TR 62 : 2018	Guidelines for Cloud Outage Incident Response (COIR)
 
-TR 64 : 2018	Guidelines for IoT Security for Smart Nation
+* TR 64 : 2018	Guidelines for IoT Security for Smart Nation
 
-TR 67 : 2018	Connected Medical Device Security
+* TR 67 : 2018	Connected Medical Device Security
 
 
 #### Purchase of Standards
@@ -148,7 +148,7 @@ ISO and IEC and their respective members are committed to the protection of copy
 Should you require further information on the copyright of standards, you may contact us at :
 
 
-Standards Division
+**Standards Division**
 
 Quality and Excellence Group 
 
