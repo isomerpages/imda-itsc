@@ -106,8 +106,7 @@ Website : https://www.singaporestandardseshop.sg
 
 The full collection of Singapore Standards are also available for viewing at Enterprise Singapore's reception area, as well as the National Library Board, Lee Kong Chian Reference Library
 
-
-Enterprise Singapore
+#### Enterprise Singapore
 
 1 Fusionopolis Walk
 
@@ -119,8 +118,7 @@ Tel: (65) 6278 6666
 
 Fax: (65) 6278 6667
 
-
-National Library Board 
+#### National Library Board 
 
 100 Victoria Street 
 
