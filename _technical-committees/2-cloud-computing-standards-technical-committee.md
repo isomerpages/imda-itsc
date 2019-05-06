@@ -29,7 +29,6 @@ The TC comprises the following Working Groups (WGs):
 #### International Standards Participation
 The TC represents Singapore as a ‘Participating’ or ‘P’ member of ISO/IEC JTC 1/SC38 on ‘Distributed Applications and Platform Services’.
 
-* P-members participate actively in the work and have an obligation to vote on all questions submitted to vote within the technical committee.
 
 #### Singapore Standards under CCSTC
 
