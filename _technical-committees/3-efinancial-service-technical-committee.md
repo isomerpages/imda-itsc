@@ -24,7 +24,6 @@ i. ISO 20022 Payments Working Group
 #### International Standards Participation
 The TC represents Singapore as a ‘Participating’ or ‘P’ member of ISO/TC 68 on ‘Financial Services’.
 
-* P-members participate actively in the work and have an obligation to vote on all questions submitted to vote within the technical committee.
 
 #### Singapore Standards Under eFSTC
 
