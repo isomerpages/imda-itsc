@@ -16,6 +16,7 @@ Participating memberships
 * ISO/IEC JTC 1/SC 38 - Cloud Computing and Distributed Platforms
 * ISO/IEC JTC 1/SC 39 - Sustainability for and by Information Technology
 * ISO/IEC JTC 1/SC 41 - Internet of Things and Related Technologies
+* ISO/IEC JTC 1/SC 42 - Artificial Intelligence
 * ISO/TC 68 - Financial Services
 * ISO/TC 307 - Blockchain and Distributed Ledger Technologies
 
@@ -23,7 +24,6 @@ Observing memberships
 * ISO/IEC JTC 1/SC 6 - Telecommunications and Information Exchange between Systems
 * ISO/IEC JTC 1/SC 31 - Automatic Identification and Data Capture Techniques
 * ISO/IEC JTC 1/SC 40 - IT Service Management and IT Governance
-* ISO/IEC JTC 1/SC 42 - Artificial Intelligence
 * ISO/TC 204 - Intelligent Transport Systems
 * ISO/TC 215 - Health Informatics
 
