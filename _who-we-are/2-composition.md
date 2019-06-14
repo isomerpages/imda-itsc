@@ -29,7 +29,7 @@ Singapore Computer Society
 
 ##### Members
 
-**Mr Victor Tan**
+**Mr Too Huseh Tien**
 Defence Science & Technology Agency
 
 **Mr Lim Soon Chia**
