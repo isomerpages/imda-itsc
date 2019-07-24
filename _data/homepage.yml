@@ -21,9 +21,9 @@ button:
     url: /who-we-are/
 
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
+  - title: New standards
+    description: New Singapore Standards and Technical References established by ITSC
+    url: 
     external: true
   - title: Highlight B
     description: Important highlight B is equally important
