@@ -34,8 +34,6 @@ The TC represents Singapore as a ‘Participating’ or ‘P’ member of ISO/IE
 
 * SS 584 : 2015   Specification for Multi-tiered Cloud Computing Security
 
-* TR 30 : 2012   Virtualisation Security for Servers
-
 * TR 33 : 2013   Data as a Service (DaaS) Application Programming Interface (API) Design
 
 * TR 41 : 2015   Data Quality Metrics
