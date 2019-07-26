@@ -50,6 +50,8 @@ A TR is implemented for two years before a review is made on its suitability to 
 
 * SS ISO/IEC 27001:2019 Information technology - Security techniques - Information security management systems - Requirements
 
+* SS ISO/IEC 27002:2019 Information technology - Security techniques - Code of practice for information security controls
+
 * SS ISO/IEC 21878:2019 Information technology - Security techniques - Security guidelines for design and implementation of virtualised servers
 
 * TR 29 : 2012 (Incorporating Amendment 1, July 2012)	National Authentication Framework-- Authentication Operator Interface Messages
