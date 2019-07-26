@@ -16,9 +16,11 @@ To champion and lead in the national development, promotion and adoption of info
 
 ITSC aims to impact the industry and ICT standards bodies through the ACE strategic thrusts:
 
-**Awareness**
+## Awareness
 to promote ITSC’s standardization efforts, and communicate as well as demonstrate the value of standards to our stakeholders and the industry
-**Collaboration**
+
+## Collaboration
 to strengthen our collaboration and engagement with the international standards organizations and industry
-**Execution**
+
+## Execution
 to drive standards development and facilitate its adoption through projects and interoperability testing.
