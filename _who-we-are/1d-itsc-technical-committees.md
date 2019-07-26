@@ -122,3 +122,31 @@ The responsibilities of a Technical Committee (TC) are as follows:
 (n) To work together with the requestors, key stakeholders and Enterprise Singapore / ITSC secretariat on the implementation/adoption of the standards and for promotional activities of the SC/TC work, e.g. work with the requestors of the standard, tap on network of stakeholders to incorporate standards in relevant programmes / schemes, speak at standards launches. Prior consultation with and approval of Enterprise Singapore / ITSC secretariat should be sought where and when such promotional activities are to be undertaken as representing the work under the Singapore Standardisation Programme by related organisations and channels.
 
 (o) To carry out the roles and duties with decorum and in good faith.
+
+### Key Roles of TC Chairman
+
+The key roles of the Chairman are as follows:
+
+(a) To provide leadership and guidance to the TC to ensure that it discharges its work appropriately in accordance with the Terms of Reference of the TC.
+
+(b) To drive and manage the programme towards achieving the outcomes of the TC as set out in the Workplan of the SC.
+
+(c) To be impartial and always act in good faith, i.e. to take an objective position and be transparent and accountable. In considering the views of the Members, the Chairman should remind them of the need for the TC to reach decisions through consensus.
+
+(d) To work closely in consultation with the TC Secretary in carrying out the TC’s activities e.g. planning of work programme.
+
+(e) To be the key party to report on the progress of the work of the TC to the SC on a regular basis.
+
+(f) To provide guidance and support on the promotion and implementation aspects of the standards under the TC.
+
+(g) With the prior approval of Enterprise Singapore and the Standards Committee, to represent Singapore in technical participation international/regional standardisation activities, where necessary.
+
+(h) To present the findings and work of the TC to the SC accurately and objectively.
+
+### Key Roles of TC Deputy Chairman
+
+The key role of the TC Deputy Chairman is to:
+
+(a) Assist the TC Chairman in ensuring that the TC discharges its work on a timely basis in accordance with the Terms of Reference of the TC.
+
+(b) In the event that the TC Chairman is unable to reasonably carry out his duties within the specific timeframe, the Deputy TC Chairman shall be the acting TC Chairman until a new TC Chairman is appointed.
