@@ -11,14 +11,14 @@ favicon: /images/favicon.ico
 agency-logo: /images/logo.png
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
+hero-title: 
+hero-subtitle: 
 hero-banner: /images/ITSC Image Banner 2.jpg
 
 #Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/
+#button:
+# - text: Learn More
+#  url: /who-we-are/
 
 key-highlights:
   - title: Highlight A
