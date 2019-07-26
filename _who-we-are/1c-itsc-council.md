@@ -29,7 +29,7 @@ The responsibilities of the ITSC Council are as follows:
 2. ITSC has the power to appoint additional individual Council members where necessary, up to 30% of its membership.
 3. The term of ITSC shall be in tandem with the three year Standards Council term. Each ITSC Council member will serve a maximum of two Standards Council terms consecutively. However, the extension of a 3rd consecutive term may be considered by ITSC.
 
-### KEY ROLES OF CHAIRMAN
+### Key roles of Chairman
 The key roles of the Chairman are as follows:
 
 (a) To provide the linkage between the Standards Council and the standardisation work of the SC.
@@ -40,7 +40,7 @@ The key roles of the Chairman are as follows:
 
 (d) To spearhead the development of the Workplan for the SC and ensure that the key outcomes of the plan are delivered.
 
-### KEY ROLES OF ITSC COUNCIL MEMBERS
+### Key roles of  ITSC Council members
 
 The key roles of the ITSC Council members are as follows:
 
@@ -62,7 +62,7 @@ The key roles of the ITSC Council members are as follows:
 
 In the absence of the Chairman, the Deputy Chairman will take on the role as Chairman.
 
-### KEY ROLES OF ITSC SECRETARY
+### Key roles of ITSC Secretary
 
 The key roles of the ITSC Secretary are as a project manager, to:
 
@@ -93,11 +93,31 @@ Voting is to be done through balloting, either by letter, at meetings or e-votin
 In a meeting, questions may be decided by a majority of votes cast at the meetings by members who are present and eligible to vote expressing either approval, disapproval or declared abstention.
 
 The entitlement to vote shall be as follows:
+
 ITSC Chairman - one vote
+
 ITSC Deputy Chairman - one vote
+
 Each ITSC Council Member representing 1 organisation - one vote
+
 Each individual ITSC Council Member - one vote
 
 ITSC Council members who have a conflict of interest on the subject matter under ballot are to declare their interests and to abstain from the ballot.
 
 When voting is called for by letter or email for endorsement or approval of work items such as draft standards, at least two-thirds of those who are eligible to vote must cast their votes. Otherwise, the motion will lapse unless the voting period is extended. Negative votes not accompanied by technical reasons and abstentions are excluded when votes are counted. Two-thirds of the valid votes that are cast have to be in favour for the proposal to be approved or endorsed.
+
+### Pro-tem Committee and Study Groups
+
+ITSC Council may, at its discretion form a Pro-tem Committee or Study Group to investigate the need and feasibility of additional infocomm standardisation in and/or guidance on a technical area or to identify standardisation needs for new or emerging technology areas. This may include exploration and evaluation of requests for new infocomm standards.
+
+Pro-tem Committees and Study Groups will operate under the auspices of the ITSC Council and will include key stakeholders and government agencies which will provide guidance and directions on the timeframe for achieving the standardisation outcomes.
+
+The main objective of the Pro-tem Committee or Study Group is to understand the current activities in specific technology area and to make recommendations to ITSC.
+
+### Special Working Groups or Task Force
+
+ITSC Council may, at its discretion, form Special Working Groups (SWG) or Task Force to assist in the performance of its responsibilities. Such SWGs or Task Force have specific responsibilities and operate on a continuing basis until dissolved by ITSC Council. ITSC SWGs or Task Force operate under the auspices of ITSC Council. The membership is open to ITSC members and any others as specified in the terms of reference by ITSC Council for the SWG or Task Force.
+
+### Ad-Hoc Groups
+
+ITSC may, at its discretion, form ad-hoc groups to undertake specific tasks between meetings of its parent committee e.g. ITSC or its TCs. The membership of an ad-hoc group shall be chosen from the ITSC or TC members. ITSC TCs are required to keep the ITSC Secretariat informed of any Ad-Hoc Groups formed under its TC, its purpose and membership.
