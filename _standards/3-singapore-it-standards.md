@@ -48,9 +48,11 @@ A TR is implemented for two years before a review is made on its suitability to 
 
 * SS 618 : 2016	Guidelines on user interface design for older adults
 
-* TR 29 : 2012 (Incorporating Amendment 1, July 2012)	National Authentication Framework-- Authentication Operator Interface Messages
+* SS ISO/IEC 27001:2019 Information technology - Security techniques - Information security management systems - Requirements
 
-* TR 30 : 2012	Virtualisation Security for Servers
+* SS ISO/IEC 21878:2019 Information technology - Security techniques - Security guidelines for design and implementation of virtualised servers
+
+* TR 29 : 2012 (Incorporating Amendment 1, July 2012)	National Authentication Framework-- Authentication Operator Interface Messages
 
 * TR 33 : 2013 Data as a Service (DaaS) Application Programming Interface (API) Design
 
