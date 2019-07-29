@@ -32,20 +32,60 @@ The TC represents Singapore as a ‘Participating’ or ‘P’ member of ISO/TC
 
 List of banks and their bank channels (e.g. SWIFT, Internet Banking [IB], Host to Host [H2H])that supports SS 611:
 
-#### Organisation        System Ready By Q3 2016   Supported Channel
-
-BAML                TBC                       SWIFT, IB, H2H
-
-Crédit Agricole     CIB	By Q1 2017            SWIFT
-
-HSBC                Yes                       SWIFT, IB, H2H
-
-J.P. Morgan         Yes                       SWIFT, IB, H2H
-
-OCBC                Yes                       SWIFT, IB, H2H
-
-Standard Chartered  Yes                       SWIFT, IB, H2H
-
-UOB                 TBC                       TBC
-
-CIMB                By Q4 2017                IB
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-6e8n{font-weight:bold;background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-6e8n">Organisation</th>
+    <th class="tg-6e8n">System Ready By Q3 2016</th>
+    <th class="tg-6e8n">Supported<br>Channel</th>
+  </tr>
+  <tr>
+    <td class="tg-fymr">BAML</td>
+    <td class="tg-0pky">TBC</td>
+    <td class="tg-0pky">SWIFT, IB, H2H</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">Crédit Agricole CIB</td>
+    <td class="tg-0pky">By Q1 2017</td>
+    <td class="tg-0pky">SWIFT</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">HSBC</td>
+    <td class="tg-0pky">Yes</td>
+    <td class="tg-0pky">SWIFT, IB, H2H</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">J.P. Morgan</td>
+    <td class="tg-0lax">Yes</td>
+    <td class="tg-0lax">SWIFT, IB, H2H</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">OCBC</td>
+    <td class="tg-0lax">Yes</td>
+    <td class="tg-0lax">SWIFT, IB, H2H</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Standard Chartered</td>
+    <td class="tg-0lax">Yes</td>
+    <td class="tg-0lax">SWIFT, IB, H2H</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">UOB</td>
+    <td class="tg-0lax">TBC</td>
+    <td class="tg-0lax">TBC</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">CIMB</td>
+    <td class="tg-0lax">By Q4 2017</td>
+    <td class="tg-0lax">IB</td>
+  </tr>
+</table>
