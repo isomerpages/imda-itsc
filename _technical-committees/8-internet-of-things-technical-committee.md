@@ -14,14 +14,8 @@ IoTTC has the following main composition:
 #### TC Chairman ####
 
 **Mr Lim Chee Kean**
+
 Chief Executive Officer, Ascent Solutions Pte Ltd 
-
-The TC comprises the following Working Groups (WGs):
-
-i.  Sensor Networks WG
-ii.  IoT Reference Architecture WG
-iii.  IoT Information and Services WG
-iv.  IoT Security WG
 
 #### International Standards Participation ####
 
