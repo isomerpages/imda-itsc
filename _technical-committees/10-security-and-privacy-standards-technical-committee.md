@@ -15,11 +15,13 @@ SPSTC has the following main composition:
 #### TC Chairman ####
 
 **Mr Joseph Gan**
+
 Co-Founder & President, V-Key Pte Ltd
 
 #### TC Secretary ####
 
 **Mr Er Chiang Kai**
+
 Chief Technology Officer, V-Key Pte Ltd
 
 #### International Standards Participation ####
@@ -33,3 +35,9 @@ The TC represents Singapore as a ‘Participating’ or ‘P’ member in ISO/IE
 * TR 29 : 2012 (Incorporating Amendment 1, July 2012) National Authentication Framework-- Authentication Operator Interface Messages
 
 * TR 33 : 2013	Data as a Service (DaaS) Application Programming Interface (API) Design
+
+* SS ISO/IEC 27001:2019	Information technology - Security techniques - Information security management systems - Requirements
+
+* SS ISO/IEC 27002:2019	Information technology - Security techniques - Code of practice for information security controls
+
+* SS ISO/IEC 21878:2019	Information technology - Security techniques - Security guidelines for design and implementation of virtualised servers
