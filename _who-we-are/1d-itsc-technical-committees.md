@@ -32,7 +32,7 @@ iv) The ITSC Council shall evaluate the proposal for the formation of the new TC
 
 ### TC Composition
 
-a. Standardisation is a consensus process. A TC shall reach decisions by consensus. As a general principle, the composition of a TC and the representation on it shall be approved by ITSC Council. Any TC shall be capable of demonstrating, for external scrutiny, its fairness of representation.
+(a) Standardisation is a consensus process. A TC shall reach decisions by consensus. As a general principle, the composition of a TC and the representation on it shall be approved by ITSC Council. Any TC shall be capable of demonstrating, for external scrutiny, its fairness of representation.
 
 Definition of consensus as given in ISO/IEC Guide 2:2004.
 
@@ -40,7 +40,7 @@ Definition of consensus as given in ISO/IEC Guide 2:2004.
 
 NOTE: Consensus need not imply unanimity."
 
-b. A TC shall comprise members who are key stakeholders with technical experience or expertise relevant to the scope of the work of the TC. ITSC TC members are appointed based on the following guidelines:
+(b) A TC shall comprise members who are key stakeholders with technical experience or expertise relevant to the scope of the work of the TC. ITSC TC members are appointed based on the following guidelines:
 
 i. As representatives of local organisations, industry associations, professional bodies, academia or research institutes.
 
@@ -66,19 +66,19 @@ iv. As representatives of overseas professional bodies, industry associations or
 
 On international standards work, these overseas organisations can provide technical inputs but cannot represent Singapore’s view in overseas forums.
 
-c. Overseas bodies not registered locally can only participate as co-opted member to contribute their expertise in the TC. Co-opted members shall have not voting rights.
+(c) Overseas bodies not registered locally can only participate as co-opted member to contribute their expertise in the TC. Co-opted members shall have not voting rights.
 
-d. Specialist expertise may be co-opted by a TC. The period of membership shall be for the duration of a particular project. After this period, they shall cease to be part of the TC. Co-opted members shall have no voting rights.
+(d) Specialist expertise may be co-opted by a TC. The period of membership shall be for the duration of a particular project. After this period, they shall cease to be part of the TC. Co-opted members shall have no voting rights.
 
-e. All TC members shall meet the following criteria:
+(e) All TC members shall meet the following criteria:
 
 i. Be willing and able to commit resources to actively participate in the TC.
 
 ii. His/her presence will not create an imbalance of interests within the committee.
 
-f. For efficiency, technical discussions and consensus building, the TC should keep the size of the TC to a manageable size of up to 15-20 organisational and/or individual members.
+(f) For efficiency, technical discussions and consensus building, the TC should keep the size of the TC to a manageable size of up to 15-20 organisational and/or individual members.
 
-g. The TC is to appoint a TC Secretary from among its members to assist in the administrative management of the TC.
+(g) The TC is to appoint a TC Secretary from among its members to assist in the administrative management of the TC.
 
 
 ### The Responsibilities of a TC
@@ -194,9 +194,13 @@ The key role of the TC Secretary is, as a project manager, to:
 (d) In a meeting, questions may be decided by a majority of votes cast at the meetings by members who are present and eligible to vote expressing either approval, disapproval or declared abstention.
 
 (e) The entitlement to vote shall be as follows:
+
 i. TC Chairman - one vote
+
 ii. TC Deputy Chairman (if any) - one vote
+
 iii. 1 TC member representing 1 organisation - one vote
+
 iv. When there is more than 1 TC member representing the same organisation, only one representative from the organisation may vote.
 
 (f) TC members who have a conflict of interest on the subject matter under ballot are to declare their interests and to abstain from the ballot.
@@ -230,6 +234,9 @@ In case where a TC cannot reach agreement by consensus, the following dispute an
 (c) A TC can be dissolved due to the changes to the infocomm standardisation needs and interest of Singapore. The dissolution shall be directed by the ITSC Council for the following reasons:
 
 i. TC’s work is no longer relevant to the industry
+
 ii. Standards developed by the TC have been well established and received and not much effort is required to maintain them
+
 iii. Declining activity level of the TC
+
 iv. Declining TC membership
