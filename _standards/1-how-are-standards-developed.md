@@ -79,3 +79,17 @@ Codes of practice: 12 - 24 months
 NOTE: * Include guides and test methods. Technical Reference, being a fast track document, should be developed within 12 months.
 
 All Technical Committee/Working Group (TC/WG) decisions whether or not to move to the next stage of the development process shall be documented.
+
+#### Editing and Publication
+
+The responsibility of the technical content of a draft standard remains with the Technical Committee/Working Group. All final draft Singapore Standards / Technical References should be edited and proof-read prior to publication. All intellectual property rights including copyright in any works created by Standards Partners are the property of and belong to Enterprise Singapore.
+
+Enterprise Singapore provides editing service on all proposed Singapore Standards / Technical References.
+
+#### Gazette
+
+All Singapore Standards which have undergone Stages 1 to 6 and approval by the respective Standards Committee shall be notified in the Government Gazette and printed. Technical References are not gazetted as they are only pre-standards.
+
+#### Maintenance
+
+Every standard shall be under the responsibility of a Technical Committee (TC) (or Standards Committee in the absence of a TC). Each TC shall maintain standards for which it is responsible, to ensure that those standards are up to date with current practice and free from material error.
