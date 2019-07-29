@@ -32,3 +32,9 @@ Singapore is a 'P' member of ISO/IEC JTC 1/SC 41 Internet of Things and related 
 * TR 50 : 2016	Internet of Things Information and Services Interoperability for Smart Nation
 
 * TR 64 : 2018	Guidelines for IoT security for smart nation
+
+* TR 69 : Part 1 : 2019	Video Analytics within Video Surveillance Systems
+Part 1: Reference architecture and interoperability
+
+* TR 69 : Part 2 : 2019	Video Analytics within Video Surveillance Systems
+Part 2: Selection, installation and benchmarking
