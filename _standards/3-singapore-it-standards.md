@@ -18,137 +18,129 @@ A TR is implemented for two years before a review is made on its suitability to 
 
 #### Singapore IT Standards established:
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-6e8n{font-weight:bold;background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg">
   <tr>
     <th class="tg-6e8n">STANDARD NO.</th>
     <th class="tg-6e8n">STANDARD TITLE</th>
   </tr>
   <tr>
-    <td class="tg-0pky">Singapore StandardSS 362 : Part 1 : 2013</td>
+    <td class="tg-0pky">SS 362 : Part 1 : 2013</td>
     <td class="tg-0pky">Specification For GS1 Bar Coding SystemPart 1 : GS1 - An Unambiguous International Product Identification System</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Singapore StandardSS 362 : Part 2 : 2013</td>
+    <td class="tg-0pky">SS 362 : Part 2 : 2013</td>
     <td class="tg-0pky">Specification For GS1 Bar Coding SystemPart 2 : GS1 Code 128 And Application Identifier Standard</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Singapore StandardSS 467 : 2002 (2012)</td>
+    <td class="tg-0pky">SS 467 : 2002 (2012)</td>
     <td class="tg-0pky">Specification for Smart Card Reader Application Program Interface (API)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Singapore StandardSS 468 : 1999 (2012)</td>
+    <td class="tg-0lax">SS 468 : 1999 (2012)</td>
     <td class="tg-0lax">Specification for Stored Value Card Application</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Singapore Standard SS 507 : 2015</td>
+    <td class="tg-0lax">SS 507 : 2015</td>
     <td class="tg-0lax">Information and Communications Technology Disaster Recovery Services</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Singapore Standard SS 518 : 2014 (Incorporating Amendment 1, January 2019)</td>
+    <td class="tg-0lax">SS 518 : 2014 (Incorporating Amendment 1, January 2019)</td>
     <td class="tg-0lax">Specification for Contactless E-Purse Application</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Singapore StandardSS 526 : Part 1: 2006 (2014)</td>
+    <td class="tg-0lax">SS 526 : Part 1: 2006 (2014)</td>
     <td class="tg-0lax">Specification for Content Exchange Metadata Standards For The Education SectorPart 1 : Metadata Standards</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Singapore StandardSS 526 : Part 2: 2006 (2014)</td>
+    <td class="tg-0lax">SS 526 : Part 2: 2006 (2014)</td>
     <td class="tg-0lax">Specification for Content Exchange Metadata Standards For The Education SectorPart 2 : Taxonomy Standards</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Singapore StandardSS 529 : 2006</td>
+    <td class="tg-0lax">SS 529 : 2006</td>
     <td class="tg-0lax">Specification for Smart Card ID</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Singapore StandardSS 564 : Part 1: 2013</td>
+    <td class="tg-0lax">SS 564 : Part 1: 2013</td>
     <td class="tg-0lax">Green Data CentresPart 1 : Energy and Environmental Management Systems</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Singapore StandardSS 564 : Part 2: 2013</td>
+    <td class="tg-0lax">SS 564 : Part 2: 2013</td>
     <td class="tg-0lax">Green Data CentresPart 2 : Guidance for Energy and Environment Management Systems</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Singapore StandardSS 584 : 2015</td>
+    <td class="tg-0lax">SS 584 : 2015</td>
     <td class="tg-0lax">Specification for Multi-tier Cloud Computing Security</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Singapore StandardSS 587 : 2013</td>
+    <td class="tg-0lax">SS 587 : 2013</td>
     <td class="tg-0lax">Management of End-of-Life ICT Equipment</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Singapore StandardSS 611 : 2016</td>
+    <td class="tg-0lax">SS 611 : 2016</td>
     <td class="tg-0lax">ISO 20022 Corporate-to-Bank Payment Initiation and Payment Status</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Singapore StandardSS 618 : 2016</td>
+    <td class="tg-0lax">SS 618 : 2016</td>
     <td class="tg-0lax">Guidelines on user interface design for older adults</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Singapore StandardSS ISO/IEC 27001:2019</td>
+    <td class="tg-0lax">SS ISO/IEC 27001:2019</td>
     <td class="tg-0lax">Information technology - Security techniques - Information security management systems - Requirements</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Singapore StandardSS ISO/IEC 27002:2019</td>
+    <td class="tg-0lax">SS ISO/IEC 27002:2019</td>
     <td class="tg-0lax">Information technology - Security techniques - Code of practice for information security controls</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Singapore StandardSS ISO/IEC 21878:2019</td>
+    <td class="tg-0lax">SS ISO/IEC 21878:2019</td>
     <td class="tg-0lax">Information technology - Security techniques - Security guidelines for design and implementation of virtualised servers</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Technical ReferenceTR 29 : 2012 (Incorporating Amendment 1, July 2012)</td>
+    <td class="tg-0lax">TR 29 : 2012 (Incorporating Amendment 1, July 2012)</td>
     <td class="tg-0lax">National Authentication Framework-- Authentication Operator Interface Messages</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Technical ReferenceTR 33 : 2013</td>
+    <td class="tg-0lax">TR 33 : 2013</td>
     <td class="tg-0lax">Data as a Service (DaaS) Application Programming Interface (API) Design</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Technical ReferenceTR 38 : 2014</td>
+    <td class="tg-0lax">TR 38 : 2014</td>
     <td class="tg-0lax">Sensor Network for Smart Nation (public areas)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Technical ReferenceTR 40 : 2015</td>
+    <td class="tg-0lax">TR 40 : 2015</td>
     <td class="tg-0lax">Sensor Networks for Smart Nation (homes)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Technical ReferenceTR 41 : 2015</td>
+    <td class="tg-0lax">TR 41 : 2015</td>
     <td class="tg-0lax">Data Quality Metrics</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Technical ReferenceTR 45 : 2016</td>
+    <td class="tg-0lax">TR 45 : 2016</td>
     <td class="tg-0lax">Remote Vital Signs Monitoring</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Technical ReferenceTR 47 : 2016</td>
+    <td class="tg-0lax">TR 47 : 2016</td>
     <td class="tg-0lax">Internet of Things Reference Architecture for Smart Nation</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Technical ReferenceTR 50 : 2016</td>
+    <td class="tg-0lax">TR 50 : 2016</td>
     <td class="tg-0lax">Internet of Things Information and Services Interoperability for Smart Nation</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Technical ReferenceTR 55 : 2016</td>
+    <td class="tg-0lax">TR 55 : 2016</td>
     <td class="tg-0lax">Data Versioning</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Technical ReferenceTR 62 : 2018</td>
+    <td class="tg-0lax">TR 62 : 2018</td>
     <td class="tg-0lax">Guidelines for Cloud Outage Incident Response (COIR)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">echnical ReferenceTR 64 : 2018</td>
+    <td class="tg-0lax">TR 64 : 2018</td>
     <td class="tg-0lax">Guidelines for IoT Security for Smart Nation</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Technical ReferenceTR 67 : 2018</td>
+    <td class="tg-0lax">TR 67 : 2018</td>
     <td class="tg-0lax">Connected Medical Device Security</td>
   </tr>
 </table>
