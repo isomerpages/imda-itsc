@@ -89,3 +89,27 @@ Enterprise Singapore
 The set up of TCs/WGs mirrors with the structure of Joint Technical Committee 1 (JTC 1) of the International Organisation for Standardisation (ISO) and International Electrotechnical Commission (IEC) whenever possible. This is to provide a platform for Singapore's participation in the international standardisation effort and facilitate faster evaluation and adoption of the international standards as Singapore standards.
 
 The TCs/WGs are formed as directed by the Chairman or at the request of one-third of the ITSC members in view of the national and industry needs and interest for standardisation.
+
+The following are the current TCs under ITSC:
+
+1. Artificial Intelligence Technical Committee (AITC)
+
+2. Blockchain and Distributed Ledger Technologies Technical Committee (BDLTTC) 
+
+3. Cloud Computing Standards Technical Committee (CCSTC)
+
+4. eFinancial Services Technical Committee (eFSTC)
+
+5. Green Information Technology Technical Committee (GITTC)
+
+6. Health Informatics Technical Committee (HITC)
+
+7. Identification Technology Technical Committee (ITTC)
+
+8. Information Technology for Senior Adults Technical Committee (ITSATC)
+
+9. Internet of Things Technical Committee (IoTTC)
+
+10. Multimedia Representation Technical Committee (MRTC)
+
+11. Security & Privacy Standards Technical Committee (SPSTC)
