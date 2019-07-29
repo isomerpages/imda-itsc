@@ -15,14 +15,17 @@ ITTC has the following main composition:
 #### TC Chairman ####
 
 **Mr Lin Yih**
+
 Director, Digital Applied Research and Technology Pte Ltd
 
 #### Deputy TC Chairmen ####
 
 **Mr Lawrence Chen Tai Pang**
+
 Senior Research Engineer, Institute for Infocomm Research
 
 **Mr Kelvin Lim**
+
 Deputy Chief Specialist, Systems Specialists, Rail/Road Systems Engineering Group, Land Transport Authority
 
 #### International Standards Participation ####

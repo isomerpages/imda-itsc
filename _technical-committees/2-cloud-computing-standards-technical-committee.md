@@ -14,6 +14,7 @@ Cloud Computing Standards Technical Committee has the following main composition
 #### TC Chairman
 
 **Mr Robert Chew**
+
 Individual capacity
 
 The TC comprises the following Working Groups (WGs):

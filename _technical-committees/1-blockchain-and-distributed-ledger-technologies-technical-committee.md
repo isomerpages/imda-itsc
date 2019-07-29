@@ -14,14 +14,17 @@ The Technical Committee has the following main composition:
 #### TC Chairman
 
 **Mr Tan Sian Lip**
+
 CEO, Halialabs
 
 #### TC Secretaries
 
 **Mr Gaurang Torvekar**
+
 CTO & Co-founder, Attores
 
 **Mr Vinay Mohan**
+
 Director - Asia Pacific Operations, ConsenSys
 
 

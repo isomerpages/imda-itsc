@@ -14,6 +14,7 @@ MRTC has the following main composition:
 #### TC Chairman ####
 
 **Mr Lim Chong Soon**
+
 Senior R&D Manager, Panasonic R&D Singapore
 
 #### International Standards Participation ####

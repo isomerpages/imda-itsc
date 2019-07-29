@@ -7,6 +7,25 @@ collection_name: who-we-are
 second_nav_title: "Policies and Procedures"
 ---
 
-1. Prior to attending international standards meetings, the Singapore delegates should discuss with the national committee (i.e. mirror TC or WG under ITSC) on Singapore’s position. If there is more than one delegate attending the meetings, the appointed Head of Delegation will be the spokesperson during the meeting.
-2. The Head of Delegation shall present the national position at these meetings and not present their individual views or the view of their organisations. On matters which have not been previously deliberated, the Head of Delegation should try to delay a formal decision to be taken at the meeting so that the national committee can be consulted on their views. If however, a decision is required, the Head of Delegation may request for an adjournment to consult with other members of the delegation on Singapore’s position.
-3. The table below shows the criteria to participate in the international standards meeting as a Singapore delegate. The Head of Delegation is normally the Chair of the TC or his delegated TC member. He or she shall be a Singapore resident or citizen.
+(a) ITSC Council, TC and WG members can apply for ITSC trip sponsorship to attend international standards meetings. The ITSC trip sponsorship guidelines can be obtained from the ITSC Secretariat.
+
+(b) ITSC TC and WG members should submit their trip sponsorship request through their TC Chair to the ITSC Secretariat 8 weeks before the international standards meeting. ITSC Council members should submit their trip sponsorship request to the ITSC Secretariat. The information to be included in the trip sponsorship request shall include:
+
+* Name, organisation and contact information of nominee
+
+* Name, date, venue and agenda of the international standards meetings
+
+* Purpose of attending the meeting.
+
+* Benefits of attending the meeting and the value or impact to the Singapore industry
+
+* Estimated cost (with breakdown of the cost, i.e. economy airfare, accommodation, airport transfer).
+ 
+(c) Support for trip sponsorship will be evaluated by ITSC based on the following criteria:
+* Priority will be given to international standards meetings that are anticipated to be economically beneficial to Singapore.
+
+* Sponsored delegates are expected to be active volunteers and members of the TC or WG and be a strong supporter of the national standardisation programme.
+
+(d) ITSC Chairman and Enterprise Singapore will be the approving authority for ITSC Council, TC and WG members’ trip sponsorship requests.
+ 
+(e) Within one month of their return, the ITSC Council, TC and WG member shall submit their trip claims (i.e. original or certified true copies of their receipts for economy airfare, accommodation and airport transfer) to Enterprise Singapore. In addition, ITSC Council, TC and WG members are required to submit a brief report of the international meeting using the trip report template defined by Enterprise Singapore and relevant documents to its parent TC, ITSC and Enterprise Singapore for further action. If required, a presentation shall also be made to its parent TC and/or ITSC.

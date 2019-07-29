@@ -7,7 +7,7 @@ collection_name: international-participation
 ---
 ITSC participates actively in international standards forum, in particular, ISO/IEC JTC 1. JTC 1 is a joint technical committee of the international standards organisations the International Organisation for Standardisation (ISO) and International Electrotechnical Commission (IEC).
 
-Participating memberships
+## Participating memberships
 * ISO/IEC JTC 1 - Joint Technical Committee 1 on Information Technology
 * ISO/IEC JTC 1/SC 17 - Cards and Security Devices for Personal Identification
 * ISO/IEC JTC 1/SC 27 - Information Security, Cybersecurity and Privacy Protection
@@ -20,12 +20,12 @@ Participating memberships
 * ISO/TC 68 - Financial Services
 * ISO/TC 307 - Blockchain and Distributed Ledger Technologies
 
-Observing memberships
+## Observing memberships
 * ISO/IEC JTC 1/SC 6 - Telecommunications and Information Exchange between Systems
 * ISO/IEC JTC 1/SC 31 - Automatic Identification and Data Capture Techniques
 * ISO/IEC JTC 1/SC 40 - IT Service Management and IT Governance
 * ISO/TC 204 - Intelligent Transport Systems
 * ISO/TC 215 - Health Informatics
 
-Others
+## Others
 * ISO/IEC JTC 1/WG 11 - Smart Cities

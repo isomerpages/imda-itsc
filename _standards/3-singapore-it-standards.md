@@ -18,65 +18,132 @@ A TR is implemented for two years before a review is made on its suitability to 
 
 #### Singapore IT Standards established:
 
-* SS 362 : Part 1 : 2013	Specification For GS1 Bar Coding System Part 1 : GS1 - An Unambiguous International Product Identification System
-
-* SS 362 : Part 2 : 2013	Specification For GS1 Bar Coding System Part 2 : GS1 Code 128 And Application Identifier Standard
-
-* SS 467 : 2002 (2012)	Specification for Smart Card Reader Application Program Interface (API)
-
-* SS 468 : 1999 (2012)	Specification for Stored Value Card Application
-
-* SS 507 : 2015	Information and Communications Technology Disaster Recovery Services
-
-* SS 518 : 2014 (Incorporating Amendment 1, January 2019)	Specification for Contactless E-Purse Application
-
-* SS 526 : Part 1: 2006 (2014)	Specification for Content Exchange Metadata Standards For The Education Sector Part 1 : Metadata Standards
-
-* SS 526 : Part 2: 2006 (2014)	Specification for Content Exchange Metadata Standards For The Education Sector Part 2 : Taxonomy Standards
-
-* SS 529 : 2006	Specification for Smart Card ID
-
-* SS 564 : Part 1: 2013	Green Data Centres Part 1 : Energy and Environmental Management Systems
-
-* SS 564 : Part 2: 2013	Green Data Centres Part 2 : Guidance for Energy and Environment Management Systems
-
-* SS 584 : 2015	Specification for Multi-tier Cloud Computing Security
-
-* SS 587 : 2013	Management of End-of-Life ICT Equipment
-
-* SS 611 : 2016	ISO 20022 Corporate-to-Bank Payment Initiation and Payment Status
-
-* SS 618 : 2016	Guidelines on user interface design for older adults
-
-* SS ISO/IEC 27001:2019 Information technology - Security techniques - Information security management systems - Requirements
-
-* SS ISO/IEC 27002:2019 Information technology - Security techniques - Code of practice for information security controls
-
-* SS ISO/IEC 21878:2019 Information technology - Security techniques - Security guidelines for design and implementation of virtualised servers
-
-* TR 29 : 2012 (Incorporating Amendment 1, July 2012)	National Authentication Framework-- Authentication Operator Interface Messages
-
-* TR 33 : 2013 Data as a Service (DaaS) Application Programming Interface (API) Design
-
-* TR 38 : 2014	Sensor Network for Smart Nation (public areas)
-
-* TR 40 : 2015 Sensor Networks for Smart Nation (homes)
-
-* TR 41 : 2015 Data Quality Metrics
-
-* TR 45 : 2016	Remote Vital Signs Monitoring
-
-* TR 47 : 2016	Internet of Things Reference Architecture for Smart Nation
-
-* TR 50 : 2016	Internet of Things Information and Services Interoperability for Smart Nation
-
-* TR 55 : 2016	Data Versioning
-
-* TR 62 : 2018	Guidelines for Cloud Outage Incident Response (COIR)
-
-* TR 64 : 2018	Guidelines for IoT Security for Smart Nation
-
-* TR 67 : 2018	Connected Medical Device Security
+<table class="tg">
+  <tr>
+    <th class="tg-6e8n">STANDARD NO.</th>
+    <th class="tg-6e8n">STANDARD TITLE</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">SS 362 : Part 1 : 2013</td>
+    <td class="tg-0pky">Specification For GS1 Bar Coding SystemPart 1 : GS1 - An Unambiguous International Product Identification System</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">SS 362 : Part 2 : 2013</td>
+    <td class="tg-0pky">Specification For GS1 Bar Coding SystemPart 2 : GS1 Code 128 And Application Identifier Standard</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">SS 467 : 2002 (2012)</td>
+    <td class="tg-0pky">Specification for Smart Card Reader Application Program Interface (API)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SS 468 : 1999 (2012)</td>
+    <td class="tg-0lax">Specification for Stored Value Card Application</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SS 507 : 2015</td>
+    <td class="tg-0lax">Information and Communications Technology Disaster Recovery Services</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SS 518 : 2014 (Incorporating Amendment 1, January 2019)</td>
+    <td class="tg-0lax">Specification for Contactless E-Purse Application</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SS 526 : Part 1: 2006 (2014)</td>
+    <td class="tg-0lax">Specification for Content Exchange Metadata Standards For The Education SectorPart 1 : Metadata Standards</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SS 526 : Part 2: 2006 (2014)</td>
+    <td class="tg-0lax">Specification for Content Exchange Metadata Standards For The Education SectorPart 2 : Taxonomy Standards</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SS 529 : 2006</td>
+    <td class="tg-0lax">Specification for Smart Card ID</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SS 564 : Part 1: 2013</td>
+    <td class="tg-0lax">Green Data CentresPart 1 : Energy and Environmental Management Systems</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SS 564 : Part 2: 2013</td>
+    <td class="tg-0lax">Green Data CentresPart 2 : Guidance for Energy and Environment Management Systems</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SS 584 : 2015</td>
+    <td class="tg-0lax">Specification for Multi-tier Cloud Computing Security</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SS 587 : 2013</td>
+    <td class="tg-0lax">Management of End-of-Life ICT Equipment</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SS 611 : 2016</td>
+    <td class="tg-0lax">ISO 20022 Corporate-to-Bank Payment Initiation and Payment Status</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SS 618 : 2016</td>
+    <td class="tg-0lax">Guidelines on user interface design for older adults</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SS ISO/IEC 27001:2019</td>
+    <td class="tg-0lax">Information technology - Security techniques - Information security management systems - Requirements</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SS ISO/IEC 27002:2019</td>
+    <td class="tg-0lax">Information technology - Security techniques - Code of practice for information security controls</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SS ISO/IEC 21878:2019</td>
+    <td class="tg-0lax">Information technology - Security techniques - Security guidelines for design and implementation of virtualised servers</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">TR 29 : 2012 (Incorporating Amendment 1, July 2012)</td>
+    <td class="tg-0lax">National Authentication Framework-- Authentication Operator Interface Messages</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">TR 33 : 2013</td>
+    <td class="tg-0lax">Data as a Service (DaaS) Application Programming Interface (API) Design</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">TR 38 : 2014</td>
+    <td class="tg-0lax">Sensor Network for Smart Nation (public areas)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">TR 40 : 2015</td>
+    <td class="tg-0lax">Sensor Networks for Smart Nation (homes)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">TR 41 : 2015</td>
+    <td class="tg-0lax">Data Quality Metrics</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">TR 45 : 2016</td>
+    <td class="tg-0lax">Remote Vital Signs Monitoring</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">TR 47 : 2016</td>
+    <td class="tg-0lax">Internet of Things Reference Architecture for Smart Nation</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">TR 50 : 2016</td>
+    <td class="tg-0lax">Internet of Things Information and Services Interoperability for Smart Nation</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">TR 55 : 2016</td>
+    <td class="tg-0lax">Data Versioning</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">TR 62 : 2018</td>
+    <td class="tg-0lax">Guidelines for Cloud Outage Incident Response (COIR)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">TR 64 : 2018</td>
+    <td class="tg-0lax">Guidelines for IoT Security for Smart Nation</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">TR 67 : 2018</td>
+    <td class="tg-0lax">Connected Medical Device Security</td>
+  </tr>
+</table>
 
 
 #### Purchase of Standards

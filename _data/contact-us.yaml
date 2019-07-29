@@ -10,7 +10,7 @@ locations:
   # HQ Address [REQUIRED]
   - title:
     address: c/o Infocomm Media Development Authority of Singapore<br>10 Pasir Panjang Road<br>#03-01 Mapletree Business City<br>Singapore 117438
-    find-directions: https://www.google.com.sg/maps/place/Infocomm Media Development Authority/
+    find-directions: https://www.google.com.sg/maps/place/Infocomm+Media+Development+Authority/@1.2742611,103.7975098,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1a4ff594fb9b:0xa6f2618e26d150eb!8m2!3d1.2742611!4d103.7996985
   # Operating Hours [OPTIONAL]
 
 # Contact Us

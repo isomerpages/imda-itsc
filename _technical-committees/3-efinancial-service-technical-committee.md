@@ -14,6 +14,7 @@ eFSTC has the following main composition:
 #### TC Chairman
 
 **Mr Amod Dixit**
+
 Chief Executive Officer, Zensung Pte. Ltd.
 
 The TC comprises the following Working Groups (WGs):
@@ -32,20 +33,50 @@ The TC represents Singapore as a ‘Participating’ or ‘P’ member of ISO/TC
 
 List of banks and their bank channels (e.g. SWIFT, Internet Banking [IB], Host to Host [H2H])that supports SS 611:
 
-#### Organisation        System Ready By Q3 2016   Supported Channel
-
-BAML                TBC                       SWIFT, IB, H2H
-
-Crédit Agricole     CIB	By Q1 2017            SWIFT
-
-HSBC                Yes                       SWIFT, IB, H2H
-
-J.P. Morgan         Yes                       SWIFT, IB, H2H
-
-OCBC                Yes                       SWIFT, IB, H2H
-
-Standard Chartered  Yes                       SWIFT, IB, H2H
-
-UOB                 TBC                       TBC
-
-CIMB                By Q4 2017                IB
+<table class="tg">
+  <tr>
+    <th class="tg-6e8n">Organisation</th>
+    <th class="tg-6e8n">System Ready By Q3 2016</th>
+    <th class="tg-6e8n">Supported<br>Channel</th>
+  </tr>
+  <tr>
+    <td class="tg-fymr">BAML</td>
+    <td class="tg-0pky">TBC</td>
+    <td class="tg-0pky">SWIFT, IB, H2H</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">Crédit Agricole CIB</td>
+    <td class="tg-0pky">By Q1 2017</td>
+    <td class="tg-0pky">SWIFT</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">HSBC</td>
+    <td class="tg-0pky">Yes</td>
+    <td class="tg-0pky">SWIFT, IB, H2H</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">J.P. Morgan</td>
+    <td class="tg-0lax">Yes</td>
+    <td class="tg-0lax">SWIFT, IB, H2H</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">OCBC</td>
+    <td class="tg-0lax">Yes</td>
+    <td class="tg-0lax">SWIFT, IB, H2H</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Standard Chartered</td>
+    <td class="tg-0lax">Yes</td>
+    <td class="tg-0lax">SWIFT, IB, H2H</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">UOB</td>
+    <td class="tg-0lax">TBC</td>
+    <td class="tg-0lax">TBC</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">CIMB</td>
+    <td class="tg-0lax">By Q4 2017</td>
+    <td class="tg-0lax">IB</td>
+  </tr>
+</table>
