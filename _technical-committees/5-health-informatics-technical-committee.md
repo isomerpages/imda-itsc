@@ -15,11 +15,13 @@ HITC has the following main composition:
 #### TC Chairman ####
 
 **Dr Julian Sham**
+
 Principal Director, Health, Accenture
 
 #### TC Secretary #####
 
 **Mr Andy Tan**
+
 Principal Medical Informatics Specilaist, National University Health System
 
 #### International Standards Participation ####
