@@ -109,9 +109,9 @@ The responsibilities of a Technical Committee (TC) are as follows:
 
 (h) To safeguard the intellectual property rights and confidential information of Enterprise Singapore.
 
-(i) To notify SPRING of any relevant patent rights in the standards.
+(i) To notify Enterprise Singapore of any relevant patent rights in the standards.
 
-(j) To refer all media matters pertaining to the standards or the standardisation programme to Enterprise Singapore. TC Chairman and Members shall not represent SPRING or the Standardisation Programme without permission from Enterprise Singapore.
+(j) To refer all media matters pertaining to the standards or the standardisation programme to Enterprise Singapore. TC Chairman and Members shall not represent Enterprise Singapore or the Standardisation Programme without permission from Enterprise Singapore.
 
 (k) To avoid endorsing any specific organisations, products or services, e.g. the names and trademarks of products and services in SS/TR.
 
