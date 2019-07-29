@@ -8,19 +8,21 @@ second_nav_title: "Policies and Procedures"
 ---
 
 ### General
-1. Technical Committees (TC) are formed and dissolved by the ITSC Council.
-2. An ITSC TC’s term of office shall be for a three-year term, and be in tandem with ITSC’s and the Standards Council’s terms of office.
-3. The composition of the TC, Working Group(s) and any changes to it shall be subject to the approval of the ITSC Council.
+(a) Technical Committees (TC) are formed and dissolved by the ITSC Council.
+
+(b) An ITSC TC’s term of office shall be for a three-year term, and be in tandem with ITSC’s and the Standards Council’s terms of office.
+
+(c)The composition of the TC, Working Group(s) and any changes to it shall be subject to the approval of the ITSC Council.
 
 ### Formation of a New TC
 
-1. A new TC is formed in order for ITSC to:
+(a) A new TC is formed in order for ITSC to:
 
 i) Develop and facilitate the use of standards in a specific infocomm technology domain. This is usually based on the industry needs or growing industry interest or relevance of the subject matter.
 
 ii) Develop and facilitate the use of standards to support national infocomm initiatives.
 
-2. Industry players may submit a proposal for standards work in a new infocomm technology domain which appears to require the establishment of a new TC. The procedures to form a new TC are:
+(b) Industry players may submit a proposal for standards work in a new infocomm technology domain which appears to require the establishment of a new TC. The procedures to form a new TC are:
 
 i) The interested industry partner is to propose to ITSC Council on the need to form a pro-tem committee to study the industry needs for some Singapore Standards, which would require a new TC to be formed.
 
