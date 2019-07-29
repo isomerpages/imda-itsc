@@ -16,6 +16,7 @@ GITTC has the following main composition:
 #### TC Chairman
 
 **Mr Wong Wai Meng**
+
 Chief Executive Officer, Keppel Data Centres
 
 #### International Standards Participation
