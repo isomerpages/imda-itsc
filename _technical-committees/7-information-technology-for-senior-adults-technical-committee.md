@@ -14,9 +14,11 @@ Information Technology for Senior Adults Technical Committee has the following m
 #### TC Chairman ####
 
 **A/P Calvin Chan**
+
 Director, Office of Graduate Studies, Singapore University of Social Sciences
 
 **A/P Jason Yap**
+
 Saw Swee Hock School of Public Health, National University of Singapore
 
 
