@@ -20,52 +20,67 @@ The members for the 10th term of office are the following organisation represent
 ##### Chairman
 
 **Mr Yap Chee Yuen**
+
 Standards Council
 
 ##### Deputy Chairman
 
 **Mr Chak Kong Soon**
+
 Singapore Computer Society
 
 ##### Members
 
 **Mr Too Huseh Tien**
+
 Defence Science & Technology Agency
 
 **Mr Lim Soon Chia**
+
 Cyber Security Agency of Singapore
 
 **Mr Chau Chee Chiang**
+
 Government Technology Agency (GovTech)
 
 **Mr Hong Tse Min**
+
 Infocomm Media Development Authority of Singapore
 
 **Mr Kendrick Lee**
+
 IT Management Association
 
 **Mr Harish Pillay**
+
 Internet Society (Singapore Chapter)
 
 **Mr Kelvin Ng**
+
 Nanyang Polytechnic
 
 **Mr George Loh**
+
 National Research Foundation
 
 **Assoc Prof Huang Zhiyong**
+
 National University of Singapore
 
 **Mr Wong Wai Meng**
+
 Singapore infocomm Technology Federation
 
 **Assoc Prof Benjamin Gan**
+
 Singapore Management University
 
 **Mr Tan Boon Yuen**
+
 Singapore Polytechnic
 
 **Mr Cheong Tak Leong**
+
 Enterprise Singapore
 
 
