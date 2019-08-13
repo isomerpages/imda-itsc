@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Membership In Iso Iec Jtc 1
+title: Membership In ISO/IEC JTC 1
 permalink: /international-participation/membership-in-iso-iec-jtc-1/
 breadcrumb: Membership In ISO/IEC JTC 1
 collection_name: international-participation
