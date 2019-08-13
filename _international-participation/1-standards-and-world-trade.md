@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Standards And World Trade
 permalink: /international-participation/standards-and-world-trade/
-breadcrumb: Standards And World Trade
+breadcrumb: Standards and World Trade
 collection_name: international-participation
 ---
 
