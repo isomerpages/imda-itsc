@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Identification Technology Technical Committee
-permalink: /technical-committees/idenfication-technology-technical-committee/
+permalink: /technical-committees/identification-technology-technical-committee/
 breadcrumb: Identification Technology Technical Committee
 collection_name: technical-committees
 ---
