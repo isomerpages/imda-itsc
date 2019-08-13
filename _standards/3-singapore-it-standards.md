@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Singapore It Standards
+title: Singapore IT Standards
 permalink: /standards/singapore-it-standards/
-breadcrumb: Singapore It Standards
+breadcrumb: Singapore IT Standards
 collection_name: standards
 ---
 
