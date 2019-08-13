@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Identification Technology Technical Committee
-permalink: /technical-committees/idenfication-technology-technical-committee/
+permalink: /technical-committees/identification-technology-technical-committee/
 breadcrumb: Identification Technology Technical Committee
 collection_name: technical-committees
 ---
@@ -41,4 +41,4 @@ The TC represents Singapore as a ‘Participating’ or ‘P’ member of ISO/IE
 
 * SS 518 : 2014 (Incorporating Amendment 1, January 2019) Specification for Contactless E-Purse Application
 
-* SS 529 : 2006 Specification for Smart Card ID
+* SS 529 : 2006 Specification for Smart Card ID 
