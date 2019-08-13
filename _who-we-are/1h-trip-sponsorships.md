@@ -26,6 +26,6 @@ second_nav_title: "Policies and Procedures"
 
 * Sponsored delegates are expected to be active volunteers and members of the TC or WG and be a strong supporter of the national standardisation programme.
 
-(d) ITSC Chairman and Enterprise Singapore will be the approving authority for ITSC Council, TC and WG members’ trip sponsorship requests.
+(d) ITSC Chairman and Enterprise Singapore will be the approving authority for ITSC Council, TC and WG members’ trip sponsorship requests. 
  
 (e) Within one month of their return, the ITSC Council, TC and WG member shall submit their trip claims (i.e. original or certified true copies of their receipts for economy airfare, accommodation and airport transfer) to Enterprise Singapore. In addition, ITSC Council, TC and WG members are required to submit a brief report of the international meeting using the trip report template defined by Enterprise Singapore and relevant documents to its parent TC, ITSC and Enterprise Singapore for further action. If required, a presentation shall also be made to its parent TC and/or ITSC.
