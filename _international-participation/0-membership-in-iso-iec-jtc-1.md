@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Membership In Iso Iec Jtc 1
+title: Membership In ISO/IEC JTC 1
 permalink: /international-participation/membership-in-iso-iec-jtc-1/
-breadcrumb: Membership In Iso Iec Jtc 1
+breadcrumb: Membership In ISO/IEC JTC 1
 collection_name: international-participation
 ---
 ITSC participates actively in international standards forum, in particular, ISO/IEC JTC 1. JTC 1 is a joint technical committee of the international standards organisations the International Organisation for Standardisation (ISO) and International Electrotechnical Commission (IEC).

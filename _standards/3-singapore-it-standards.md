@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Singapore It Standards
+title: Singapore IT Standards
 permalink: /standards/singapore-it-standards/
-breadcrumb: Singapore It Standards
+breadcrumb: Singapore IT Standards
 collection_name: standards
 ---
 
@@ -143,6 +143,16 @@ A TR is implemented for two years before a review is made on its suitability to 
     <td class="tg-0lax">TR 67 : 2018</td>
     <td class="tg-0lax">Connected Medical Device Security</td>
   </tr>
+    <tr>
+    <td class="tg-0lax">TR 69 : Part 1 : 2019</td>
+    <td class="tg-0lax">Video Analytics within Video Surveillance Systems<br>
+      Part 1: Reference architecture and interoperability</td>
+  </tr>
+    <tr>
+    <td class="tg-0lax">TR 69 : Part 2 : 2019</td>
+    <td class="tg-0lax">Video Analytics within Video Surveillance Systems<br>
+      Part 2: Selection, installation and benchmarking</td>
+  </tr>
 </table>
 
 
@@ -234,3 +244,4 @@ Singapore 138634
 Tel : (65) 6279 1805
 
 Email : standards@enterprisesg.gov.sg
+

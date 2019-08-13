@@ -12,25 +12,25 @@ second_nav_title: "Policies and Procedures"
 
 (b) An ITSC TC’s term of office shall be for a three-year term, and be in tandem with ITSC’s and the Standards Council’s terms of office.
 
-(c)The composition of the TC, Working Group(s) and any changes to it shall be subject to the approval of the ITSC Council.
+(c) The composition of the TC, Working Group(s) and any changes to it shall be subject to the approval of the ITSC Council.
 
 ### Formation of a New TC
 
 (a) A new TC is formed in order for ITSC to:
 
-i) Develop and facilitate the use of standards in a specific infocomm technology domain. This is usually based on the industry needs or growing industry interest or relevance of the subject matter.
+i. Develop and facilitate the use of standards in a specific infocomm technology domain. This is usually based on the industry needs or growing industry interest or relevance of the subject matter.
 
-ii) Develop and facilitate the use of standards to support national infocomm initiatives.
+ii. Develop and facilitate the use of standards to support national infocomm initiatives.
 
 (b) Industry players may submit a proposal for standards work in a new infocomm technology domain which appears to require the establishment of a new TC. The procedures to form a new TC are:
 
-i) The interested industry partner is to propose to ITSC Council on the need to form a pro-tem committee to study the industry needs for some Singapore Standards, which would require a new TC to be formed.
+i. The interested industry partner is to propose to ITSC Council on the need to form a pro-tem committee to study the industry needs for some Singapore Standards, which would require a new TC to be formed.
 
-ii) ITSC Council shall assess and approve the formation of the pro-tem committee, and a 3-month period would be given for the pro-tem committee to do the study. The ITSC Secretariat shall then send the Letter of Appointment to the pro-tem committee Chair.
+ii. ITSC Council shall assess and approve the formation of the pro-tem committee, and a 3-month period would be given for the pro-tem committee to do the study. The ITSC Secretariat shall then send the Letter of Appointment to the pro-tem committee Chair.
 
-iii) At the end of the 3-month period, the pro-tem committee may propose to the ITSC Council on the need to establish a new TC. The proposal shall include the objective, standardisation scope and planned activities of the new TC, inclusive of the names of at least 5 organisations that would be members of this new TC.
+iii. At the end of the 3-month period, the pro-tem committee may propose to the ITSC Council on the need to establish a new TC. The proposal shall include the objective, standardisation scope and planned activities of the new TC, inclusive of the names of at least 5 organisations that would be members of this new TC.
 
-iv) The ITSC Council shall evaluate the proposal for the formation of the new TC. Upon approval by the Council, ITSC Secretariat shall prepare the Letter of Appointment to the new TC Chair.
+iv. The ITSC Council shall evaluate the proposal for the formation of the new TC. Upon approval by the Council, ITSC Secretariat shall prepare the Letter of Appointment to the new TC Chair.
 
 ### TC Composition
 
@@ -82,7 +82,6 @@ ii. His/her presence will not create an imbalance of interests within the commit
 
 (g) The TC is to appoint a TC Secretary from among its members to assist in the administrative management of the TC.
 
-
 ### The Responsibilities of a TC
 
 The responsibilities of a Technical Committee (TC) are as follows:
@@ -93,13 +92,13 @@ The responsibilities of a Technical Committee (TC) are as follows:
 
 (c) To undertake the following actions to help further standardisation within the specified area:
 
-(i) Receive and consider requests for a standard from its parent SC which will include the SC’s evaluation and recommendations. The evaluations will be based on the information requested for in the New Work Item (NWI) form such as need, potential users and impact, stakeholder, effect on other standards and related issues such as productivity, regulation and trade.
+i. Receive and consider requests for a standard from its parent SC which will include the SC’s evaluation and recommendations. The evaluations will be based on the information requested for in the New Work Item (NWI) form such as need, potential users and impact, stakeholder, effect on other standards and related issues such as productivity, regulation and trade.
 
-(ii) Work with requestor to define the stakeholders for the standard and plan the resources needed to develop, review and promote the standard.
+ii. Work with requestor to define the stakeholders for the standard and plan the resources needed to develop, review and promote the standard.
 
-(iii) Consider adopting international standard without modifications, and where modification is necessary, provide justifications e.g. local regulatory requirements, tropical conditions, special social/religious considerations. Regional, overseas national and consortium standards may also be adopted with or without modification as the next alternative.
+iii. Consider adopting international standard without modifications, and where modification is necessary, provide justifications e.g. local regulatory requirements, tropical conditions, special social/religious considerations. Regional, overseas national and consortium standards may also be adopted with or without modification as the next alternative.
 
-(iv) Endorse and submit all draft new or reviewed standards prepared by the WG to the SC for approval, within a pre-agreed time frame and project plan. As far as possible, TCs should not be involved in the drafting, review or modified adoption of standards unless approved by the SC. If the TC is involved in the drafting, review or modified adoption of standards, the TC shall ensure the accuracy, clarity, quality control and traceability of the technical content of the draft. TC may also serve as a National Mirror Committee for ISO and IEC work which includes the identical adoption of relevant international standards.
+iv. Endorse and submit all draft new or reviewed standards prepared by the WG to the SC for approval, within a pre-agreed time frame and project plan. As far as possible, TCs should not be involved in the drafting, review or modified adoption of standards unless approved by the SC. If the TC is involved in the drafting, review or modified adoption of standards, the TC shall ensure the accuracy, clarity, quality control and traceability of the technical content of the draft. TC may also serve as a National Mirror Committee for ISO and IEC work which includes the identical adoption of relevant international standards.
 
 (d) To keep abreast of developments in international standardisation in their respective area of standardisation and to initiate appropriate action to safeguard and advance the interest of the local industry. Where relevant, participate in key international standardisation activities to safeguard and advance the interest of the industry in Singapore. The approval of the Standards Committee and Enterprise Singapore shall be sought on its participation.
 
