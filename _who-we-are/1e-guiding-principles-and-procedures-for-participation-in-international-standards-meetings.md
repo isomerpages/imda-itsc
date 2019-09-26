@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Guiding Principles and Procedures for Organising Standard Events
+title: Guiding Principles and Procedures for Participating in international Standard Meetings
 permalink: /who-we-are/guiding-principles-and-procedures-for-participating-in-international-standard-meetings
 breadcrumb: Guiding Principles and Procedures for Participating in international Standard Meetings
 collection_name: who-we-are
