@@ -69,7 +69,7 @@ National University of Singapore
 
 **Mr Wong Wai Meng**
 
-Singapore infocomm Technology Federation
+SGTech
 
 **Assoc Prof Benjamin Gan**
 
