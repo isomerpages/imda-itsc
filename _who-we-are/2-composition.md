@@ -7,7 +7,7 @@ collection_name: who-we-are
 ---
 
 #### ITSC Chairman
-Standards Council appoints the ITSC Chairman for a 3-year term. ITSC Chairman serves as a committee member of the Standards Council. The current chairman is Mr Yap Chee Yuen and deputy chair is Mr Chak Kong Soon.
+The Standards Council appoints the ITSC Chairman for a 3-year term. ITSC Chairman serves as a committee member of the Standards Council. The current Chairman is Mr Yap Chee Yuen and Deputy Chair is Mr Chak Kong Soon.
 
 #### ITSC Secretariat
 The Infocomm Media Development Authority of Singapore serves as the Secretariat of ITSC.
