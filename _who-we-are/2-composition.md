@@ -69,7 +69,7 @@ National University of Singapore
 
 **Mr Wong Wai Meng**
 
-Singapore infocomm Technology Federation
+SGTech
 
 **Assoc Prof Benjamin Gan**
 
@@ -113,3 +113,4 @@ The following are the current TCs under ITSC:
 10. Multimedia Representation Technical Committee (MRTC)
 
 11. Security & Privacy Standards Technical Committee (SPSTC)
+
