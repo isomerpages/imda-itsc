@@ -12,13 +12,7 @@ The Health Informatics Technical Committee (HITC) focuses on the standardisation
 
 HITC has the following main composition:
 
-#### TC Chairman ####
-
-**Dr Julian Sham**
-
-Principal Director, Health, Accenture
-
-#### TC Secretary #####
+#### Acting TC Chairman ####
 
 **Mr Andy Tan**
 
