@@ -25,11 +25,13 @@ A TR is implemented for two years before a review is made on its suitability to 
   </tr>
   <tr>
     <td class="tg-0pky">SS 362 : Part 1 : 2013</td>
-    <td class="tg-0pky">Specification For GS1 Bar Coding SystemPart 1 : GS1 - An Unambiguous International Product Identification System</td>
+    <td class="tg-0pky">Specification For GS1 Bar Coding System<br>
+      Part 1 : GS1 - An Unambiguous International Product Identification System</td>
   </tr>
   <tr>
     <td class="tg-0pky">SS 362 : Part 2 : 2013</td>
-    <td class="tg-0pky">Specification For GS1 Bar Coding SystemPart 2 : GS1 Code 128 And Application Identifier Standard</td>
+    <td class="tg-0pky">Specification For GS1 Bar Coding System<br>
+      Part 2 : GS1 Code 128 And Application Identifier Standard</td>
   </tr>
   <tr>
     <td class="tg-0pky">SS 467 : 2002 (2012)</td>
@@ -49,11 +51,13 @@ A TR is implemented for two years before a review is made on its suitability to 
   </tr>
   <tr>
     <td class="tg-0lax">SS 526 : Part 1: 2006 (2014)</td>
-    <td class="tg-0lax">Specification for Content Exchange Metadata Standards For The Education SectorPart 1 : Metadata Standards</td>
+    <td class="tg-0lax">Specification for Content Exchange Metadata Standards For The Education Sector<br>
+      Part 1 : Metadata Standards</td>
   </tr>
   <tr>
     <td class="tg-0lax">SS 526 : Part 2: 2006 (2014)</td>
-    <td class="tg-0lax">Specification for Content Exchange Metadata Standards For The Education SectorPart 2 : Taxonomy Standards</td>
+    <td class="tg-0lax">Specification for Content Exchange Metadata Standards For The Education Sector<br>
+      Part 2 : Taxonomy Standards</td>
   </tr>
   <tr>
     <td class="tg-0lax">SS 529 : 2006</td>
@@ -61,11 +65,11 @@ A TR is implemented for two years before a review is made on its suitability to 
   </tr>
   <tr>
     <td class="tg-0lax">SS 564 : Part 1: 2013</td>
-    <td class="tg-0lax">Green Data CentresPart 1 : Energy and Environmental Management Systems</td>
+    <td class="tg-0lax">Green Data Centres Part 1 : Energy and Environmental Management Systems</td>
   </tr>
   <tr>
     <td class="tg-0lax">SS 564 : Part 2: 2013</td>
-    <td class="tg-0lax">Green Data CentresPart 2 : Guidance for Energy and Environment Management Systems</td>
+    <td class="tg-0lax">Green Data Centres Part 2 : Guidance for Energy and Environment Management Systems</td>
   </tr>
   <tr>
     <td class="tg-0lax">SS 584 : 2015</td>
