@@ -17,11 +17,7 @@ The Technical Committee has the following main composition:
 
 CEO, Halialabs
 
-#### TC Secretaries
-
-**Mr Gaurang Torvekar**
-
-CTO & Co-founder, Attores
+#### TC Secretary
 
 **Mr Vinay Mohan**
 

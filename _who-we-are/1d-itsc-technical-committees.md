@@ -36,7 +36,7 @@ iv. The ITSC Council shall evaluate the proposal for the formation of the new TC
 
 (a) Standardisation is a consensus process. A TC shall reach decisions by consensus. As a general principle, the composition of a TC and the representation on it shall be approved by ITSC Council. Any TC shall be capable of demonstrating, for external scrutiny, its fairness of representation.
 
-Definition of consensus as given in ISO/IEC Guide 2:2004.
+Definition of consensus as given in ISO/IEC Guide 2:2004 (last confirmed in 2016).
 
 "Consensus: General agreement, characterized by the absence of sustained opposition to substantial issues by any important part of the concerned interests and by a process that involves seeking to take into account the views of all parties concerned and to reconcile any conflicting arguments.
 
