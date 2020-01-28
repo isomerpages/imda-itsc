@@ -9,6 +9,7 @@ second_nav_title: "Policies and Procedures"
 
 ### Responsibilities of Council
 The responsibilities of the ITSC Council are as follows:
+
 (a) To set the technical direction for standardisation at industry sector level and appoint Technical Committees/Working Groups (TC/WG) to develop, review and promote standards.
 
 (b) To guide and monitor the work of the TC/WG under its purview and to take appropriate actions furthering standardisation in these areas. The ITSC Council will:
@@ -66,9 +67,10 @@ The key roles of the ITSC Council members are as follows:
 
 (g) To be impartial, i.e. the Chairman has to take a neutral position and be above board when carrying out the roles and duties, and should aim for the SC to reach the decisions through consensus.
 
-(h) To carry out the roles and duties with decorum.
+(h) In the absence of the Chairman, the Deputy Chairman will take on the role as Chairman.
 
-In the absence of the Chairman, the Deputy Chairman will take on the role as Chairman.
+(i) To carry out the roles and duties with decorum.
+
 
 ### Key roles of ITSC Secretary
 
@@ -122,9 +124,9 @@ iv. Each individual ITSC Council Member - one vote
 
 (c) The main objective of the Pro-tem Committee or Study Group is to understand the current activities in specific technology area and to make recommendations to ITSC.
 
-### Special Working Groups or Task Force
+### Advisory Groups or Task Force
 
-ITSC Council may, at its discretion, form Special Working Groups (SWG) or Task Force to assist in the performance of its responsibilities. Such SWGs or Task Force have specific responsibilities and operate on a continuing basis until dissolved by ITSC Council. ITSC SWGs or Task Force operate under the auspices of ITSC Council. The membership is open to ITSC members and any others as specified in the terms of reference by ITSC Council for the SWG or Task Force.
+ITSC Council may, at its discretion, form Advisory Groups (AG) or Task Force to assist in the performance of its responsibilities. Such AGs or Task Force have specific responsibilities and operate on a continuing basis until dissolved by ITSC Council. ITSC AGs or Task Force operate under the auspices of ITSC Council. The membership is open to ITSC members and any others as specified in the terms of reference by ITSC Council for the AG or Task Force.
 
 ### Ad-Hoc Groups
 
