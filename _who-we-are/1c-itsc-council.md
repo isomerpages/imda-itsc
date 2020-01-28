@@ -47,7 +47,15 @@ The key roles of the Chairman are as follows:
 
 (c) To provide the leadership perspective where standardisation can play a key role to meet industry needs.
 
-(d) To spearhead the development of the Workplan for the SC and ensure that the key outcomes of the plan are delivered.
+(d) To spearhead the development of the workplan for the SC and ensure that the key outcomes of the plan are delivered.
+
+(e) To work closely in consultation with the SC Secretary in carrying out the activities of the SC, e.g. planning of work programme.
+
+(f) To be impartial, i.e. the Chairman has to take a neutral position and be above board when carrying out the roles and duties, and should aim for the SC to reach the decisions through consensus.
+
+(g) In the absence of the Chairman, the Deputy Chairman will take on the role as Chairman.
+
+(h) To carry out the roles and duties with decorum.
 
 ### Key roles of  ITSC Council members
 
@@ -60,16 +68,6 @@ The key roles of the ITSC Council members are as follows:
 (c) To provide full information to the SC and not improperly withhold relevant information within the scope of the work carried out by SC. Any omission of relevant information could contribute to the production of a false or misleading document.
 
 (d) To carry out the roles and duties with decorum.
-
-(e) To work closely in consultation with the SC Secretary in carrying out the activities of the SC, e.g. planning of work programme.
-
-(f) To report on the progress the SC work to the Standards Council on a regular basis.
-
-(g) To be impartial, i.e. the Chairman has to take a neutral position and be above board when carrying out the roles and duties, and should aim for the SC to reach the decisions through consensus.
-
-(h) In the absence of the Chairman, the Deputy Chairman will take on the role as Chairman.
-
-(i) To carry out the roles and duties with decorum.
 
 
 ### Key roles of ITSC Secretary
