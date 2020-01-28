@@ -28,17 +28,17 @@ iii. Supporting the growth of emerging industry
 
 (b) ITSC, its TCs and WGs participates as Participating (P) and Observer (O) Members in ISO and JTC 1 Committees. The commitment of being a P or O member are as follows:
 
-## P Member
+## Participating Member
 
-* As P member of ISO and JTC 1 committees, the ITSC, its TC and WGs must cast timely votes and submit comments on all international standard documents (Systematic Reviews, Committee Drafts (CD), Draft International Standards (DIS) and Final Draft International Standards (FDIS)) in accordance with Singapore’s interests through the parent TC Chair or Secretary or ITSC Secretariat.
+* As Participating member (P-member) of ISO and JTC 1 committees, the ITSC, its TC and WGs must cast timely votes and submit comments on all international standard documents (Systematic Reviews, Committee Drafts (CD), Draft International Standards (DIS) and Final Draft International Standards (FDIS)) in accordance with Singapore’s interests through the parent TC Chair or Secretary or ITSC Secretariat.
 
 * Attend the respective international standards meetings as required and be able to represent all aspects of the agreed national position to safeguard Singapore’s interest.
 
 * Consider adopting the international standard for Singapore without modification, and where modification is unavoidable, provide detailed justification, e.g. local regulatory requirements, tropical conditions, special consideration.
 
-## O Member
+## Observing Member
 
-* Monitor all international standard documents (Systematic Review, CD, DIS, FDIS) and submit recommendations in accordance with Singapore’s interest through the parent TC Chair or Secretary or ITSC Secretariat, where necessary
+* As Observing member (O-member) of ISO and JTC 1 committees, monitor all international standard documents (Systematic Review, CD, DIS, FDIS) and submit recommendations in accordance with Singapore’s interest through the parent TC Chair or Secretary or ITSC Secretariat, where necessary
 
 * Attend the respective international standards meetings where required.
 
