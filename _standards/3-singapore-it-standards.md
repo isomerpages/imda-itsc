@@ -65,11 +65,13 @@ A TR is implemented for two years before a review is made on its suitability to 
   </tr>
   <tr>
     <td class="tg-0lax">SS 564 : Part 1: 2013</td>
-    <td class="tg-0lax">Green Data Centres Part 1 : Energy and Environmental Management Systems</td>
+    <td class="tg-0lax">Green Data Centres<br>
+      Part 1 : Energy and Environmental Management Systems</td>
   </tr>
   <tr>
     <td class="tg-0lax">SS 564 : Part 2: 2013</td>
-    <td class="tg-0lax">Green Data Centres Part 2 : Guidance for Energy and Environment Management Systems</td>
+    <td class="tg-0lax">Green Data Centres<br>
+      Part 2 : Guidance for Energy and Environment Management Systems</td>
   </tr>
   <tr>
     <td class="tg-0lax">SS 584 : 2015</td>
@@ -187,40 +189,17 @@ Email : singaporestandardseshop@toppanleefung.com
 Website : https://www.singaporestandardseshop.sg
 
 
-#### Standards Library
+#### Standards Collection
 
-The full collection of Singapore Standards are also available for viewing at Enterprise Singapore's reception area, as well as the National Library Board, Lee Kong Chian Reference Library
+The Standards Collection can be found in the Lee Kong Chian Reference Library, at Level 7 of the National Library Building located at Victoria Street. The Collection is available from Monday to Sunday, 10:00am to 8:30pm (except public holidays).
 
-**Enterprise Singapore**
+The comprehensive Standards Collection can be accessed for free at the National Library Building without having to sign up as a member. Users can also make use of NLB’s business, science and technology information resources to complement their standards research.
 
-1 Fusionopolis Walk
+All the standards are strictly for reference only. They include major international standards like ISO and IEC standards; Singapore Standards; and industry and consortia standards such as ASTM American Society for Testing and Materials.
 
-#01-02 South Tower, Solaris
+Users of standards can also browse the standards catalogue and related information online in the library. The digital catalogue enables a more efficient information search, which includes assisted search enquiry for specific countries, products or subjects. Information sessions and talks on relevant standards for certain industry sectors will be organised.
 
-Singapore 138628
-
-Tel: (65) 6278 6666
-
-Fax: (65) 6278 6667
-
-**National Library Board**
-
-100 Victoria Street 
-
-Lee Kong Chian Reference Library, Level 7
-
-Singapore 188064 
-
-Hotline : 6332 3255 
-
-Email : ref@library.nlb.gov.sg
-
-
-This e-referencing system is brought to you jointly by Enterprise Singapore and the National Library Board. It allows users to view full versions of international standards published by the British Standards Institute (BSI), International Organisation for Standardisation (ISO) and the International Electrotechnical Commission (IEC). In addition, you may search for national standards published by other countries, including China, Germany, India, Korea, Malaysia, New Zealand and the United States, and book an appointment for staff-assisted access to the print edition of these standards at the Lee Kong Chian Reference Library.
-
-
-For more information please visit the Enterprise Singapore website.
-
+For more information on the collection, please email NLB at ref@nlb.gov.sg.
 
 #### Copyright of Standards
 
@@ -239,13 +218,10 @@ Quality and Excellence Group
 
 Enterprise Singapore
 
-2 Fusionopolis Way
+230 Victoria Street
 
-#15-01 Innovis 
+Level 10, Bugis Junction Office Tower
 
-Singapore 138634 
-
-Tel : (65) 6279 1805
+Singapore 188024
 
 Email : standards@enterprisesg.gov.sg
-
