@@ -10,7 +10,7 @@ second_nav_title: "Policies and Procedures"
 ### Mission
 To champion and lead in the national development, promotion and adoption of infocomm standards for the social and economic betterment of Singapore.
 
-### Goals (ACE)
+### Goals
 ITSC aims to impact the industry and ICT standards bodies through the ACE strategic thrusts:
 
 **Awareness** – to promote ITSC’s standardisation efforts, and communicate as well as demonstrate the value of standards to our stakeholders and the industry.
