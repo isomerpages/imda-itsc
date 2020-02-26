@@ -44,7 +44,7 @@ iii. Supporting the growth of emerging industry
 
 (c) Only ITSC Council members, TC or WG members may participate in ISO, JTC 1 meetings.
 
-(d) TC Chairs are responsible to identify suitable candidate(s) from his/her TC or WG to attend the international standards meetings and to register Singapore’s participation in the meetings through the ITS Secretariat and Enterprise Singapore.
+(d) TC Chairs are responsible to identify suitable candidate(s) from his/her TC or WG to attend the international standards meetings and to register Singapore’s participation in the meetings through the ITSC Secretariat and Enterprise Singapore.
 
 (e) Prior to attending international standards meetings, the Singapore delegates should discuss with their parent TC on Singapore’s position. If there is more than one delegate attending the meetings, the appointed Head of Delegation (HOD) will be the spokesperson during the meeting.
 
