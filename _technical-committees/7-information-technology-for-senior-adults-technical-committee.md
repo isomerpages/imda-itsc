@@ -17,11 +17,6 @@ Information Technology for Senior Adults Technical Committee has the following m
 
 Director, Office of Graduate Studies, Singapore University of Social Sciences
 
-**A/P Jason Yap**
-
-Saw Swee Hock School of Public Health, National University of Singapore
-
-
 #### Singapore Standards under ITSATC ####
 
 * SS 618 : 2016	Guidelines on user interface design for older adults

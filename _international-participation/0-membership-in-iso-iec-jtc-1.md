@@ -24,7 +24,6 @@ ITSC participates actively in international standards forum, in particular, ISO/
 * ISO/IEC JTC 1/SC 6 - Telecommunications and Information Exchange between Systems
 * ISO/IEC JTC 1/SC 31 - Automatic Identification and Data Capture Techniques
 * ISO/IEC JTC 1/SC 40 - IT Service Management and IT Governance
-* ISO/TC 204 - Intelligent Transport Systems
 * ISO/TC 215 - Health Informatics
 
 ## Others

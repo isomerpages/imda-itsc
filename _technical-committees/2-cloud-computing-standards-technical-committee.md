@@ -18,13 +18,14 @@ Cloud Computing Standards Technical Committee has the following main composition
 Individual capacity
 
 The TC comprises the following Working Groups (WGs):
-      i. Multi-tier Cloud Security WG
 
-      ii. Data WG
+i. Multi-tier Cloud Security WG
 
-      iii. Cloud Outage Incident Response (COIR) WG
+ii. Data WG
 
-      iv. Server Virtualisation Security WG
+iii. Cloud Outage Incident Response (COIR) WG
+
+iv. Server Virtualisation Security WG
 
 
 #### International Standards Participation
